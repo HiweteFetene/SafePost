@@ -1,0 +1,134 @@
+body 
+{
+    background-image: url("poetry.jpg");
+}
+
+.body{
+    margin:40px auto;
+    max-width:800pt;
+    line-height:1.6;
+    font-size:18px;
+    padding:0 10px
+}
+
+.comment{
+    max-width:400pt;
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+
+h1,h2,h3 {
+    line-height:1.2;
+    color: rgb(0,87,115)
+}
+a {
+    color: rgb(0,87,115)
+}
+
+span.p
+{
+font-family: "italic"
+    font-size:10px;
+
+}
+#logo {
+	font-family: "italic"
+	
+    color: transparent;
+}
+
+div.form {
+    text-align: center;
+}
+
+#title {
+    margin-right: 6px;
+}
+
+.post-link {
+    text-decoration: none !important;
+}
+
+textarea {
+    margin: 7px;
+}
+
+div.message {
+    border: solid 1px #ccc;
+    margin: 12pt;
+    padding: 5pt;
+    background-color: #eee;
+}
+
+.content {
+    width: 100%;
+    padding-right: 5pt;
+}
+
+td {
+    vertical-align: top;
+}
+
+span.datetime {
+    margin-right: 10pt;
+    color: #444;
+    display: inline-block;
+    width: 120px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.cmt-notice {
+    display: inline-block;
+    margin-top: 5pt;
+    font-size: 12px;
+    font-style: italic;
+    width: 100%;
+    text-align: right;
+}
+
+span.username {
+    margin-right: 25pt;
+    color: #444;
+    display: inline-block;
+    width: 120px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-top: 6px;
+    background-color: #000;
+    color: white;
+    text-align: center;
+    height: 28px;
+    font-size: 20px;
+    margin-top: 2px;
+}
+
+span.title {
+    font-weight: bold;
+    font-size: 20pt;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.thanks {
+    border: solid 1px #ccc;
+    margin: 3pt;
+    padding: 3pt;
+    background-color: #eee;
+}
+h1.logo {
+	text-align: center;
+    color: #fff;
+    font-family: "italic"
+    
+}
+
+#cmt-form {
+    display: inline-block;
+}
+
+.cmt-form {
+    margin-top: 20pt;
+}
